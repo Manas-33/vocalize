@@ -9,7 +9,3 @@ dependencies:
   - matplotlib
   - pip
   - pip:
-    - opencv-python
-    - mediapipe
-    - sklearn
-    - tensorflow==2.4.1
