@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327357112600",
+    "project_id": "voice4you-65006",
+    "storage_bucket": "voice4you-65006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327357112600:android:f91ac46b5c906d64f87e6d",
+        "android_client_info": {
+          "package_name": "com.example.voice4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327357112600-mtlbisfu62gcntk0n3hunovdarc39bnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuHp_Ebb2YXxBvUXkGz5etq2snnXY_IWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327357112600-mtlbisfu62gcntk0n3hunovdarc39bnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
