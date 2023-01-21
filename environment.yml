@@ -1,0 +1,15 @@
+name: hackathon
+channels:
+  - defaults
+dependencies:
+  - python=3.8.5
+  - ipykernel
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+    - opencv-python
+    - mediapipe
+    - sklearn
+    - tensorflow==2.4.1
