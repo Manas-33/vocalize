@@ -4,7 +4,7 @@
 The proposed model provides a textual output upon detecting Indian Sign Language (ISL). This will introduce a medium that'll facilitate an easier form of communication with the deaf people. Thus, the proposed model can be used as a means to help and support the people affected.
 
 ## How we built it:
-The model was built using languages like python and dart, using the open source framework Flutter for developing an application for the same. The model has been trained using a personally built and procured dataset with sharpened accuracy.
+The model was built using languages like python and dart, using the open source framework Flutter for developing an application for the same. The model has been trained using a personally built and procured dataset with better accuracy.
 
 ## Challenges we ran into:
 The dataset was hard to build and required a lot of patience and perseverance. Integration of the trained  model to perform detection of the signs in flutter was also a demanding task.
